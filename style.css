@@ -1,0 +1,14 @@
+.round {
+display:block;
+height: 50%;
+width: 100%;
+margin-bottom: 12px;
+
+}
+
+.country {
+  border-radius: 5px;
+  background-color: lightgrey;
+  margin: 11px 3px;
+  padding-top: 10px;
+}
